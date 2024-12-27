@@ -1,3 +1,3 @@
-<h1> PHP FROM BASIC TO ADVANCED</h1>  
+<h2> php from basic to advance</h2>  
 <br>
-<P></P>
+<P>cover every aspect of the language </P>
